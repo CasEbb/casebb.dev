@@ -1,0 +1,9 @@
+baseURL: https://casebb.dev/
+languageCode: nl
+title: Cas Ebbers
+theme: terminal
+params:
+  themeColor: orange
+  centerTheme: true
+  logo:
+    logoText: casebb

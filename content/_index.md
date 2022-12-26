@@ -1,6 +1,6 @@
 # 📫 E-mail
 
-* ✉️ cas@hpu.nl (zakelijk)
+* ✉️ cas@zachtwaar.nl (zakelijk)
 * ✉️ cjaebbers@gmail.com (privé)
 
 # ☎️ Telefoon
